@@ -1,5 +1,4 @@
 # AppletGameEngine
-***
 ## Development Tool and Language
 - Tools : [Eclipse](https://eclipse.org/downloads/)
 - Language : [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
